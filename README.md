@@ -12,3 +12,4 @@
 python实现：
 
 
+![boat_animation](https://github.com/user-attachments/assets/e0a8d0ec-aea0-4011-966a-59e296994e6d)
