@@ -6,8 +6,8 @@
 
 
 
+![Uploading myGray.gif…]()
 
-[Uploading keshihua.py…]()
 
 python实现：
 
