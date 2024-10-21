@@ -5,8 +5,8 @@
 仿真MATLAB图呈现
 
 
+[Uploading myGray.gif…]()
 
-![myGray](https://github.com/user-attachments/assets/d7b47ca8-8257-46f7-b776-b9a5e490565b)
 
 
 python实现：
